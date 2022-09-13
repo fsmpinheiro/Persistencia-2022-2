@@ -1,0 +1,26 @@
+<ArrayList>
+  <item>
+    <name>Divertidamente</name>
+    <year>2015</year>
+    <elementId>9a285f4f-2412-4495-8a92-81f3d7780d6f</elementId>
+    <kind>Filme</kind>
+  </item>
+  <item>
+    <name>Up - Altas Aventuras</name>
+    <year>2009</year>
+    <elementId>4e78e508-c33a-45eb-9671-3b7c5da7bc0c</elementId>
+    <kind>Filme</kind>
+  </item>
+  <item>
+    <name>Mandalorian</name>
+    <year>2019</year>
+    <elementId>5d24dab9-13a0-45f4-bece-282899f60fc5</elementId>
+    <kind>Serie</kind>
+  </item>
+  <item>
+    <name>The Boys</name>
+    <year>2019</year>
+    <elementId>ddc53a07-2d49-40af-9226-2c21d48e3c19</elementId>
+    <kind>Serie</kind>
+  </item>
+</ArrayList>
